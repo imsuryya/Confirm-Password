@@ -5,6 +5,6 @@
 Features
 <ul>
 <li>Password and Confirm Password input fields.</li>
-<li></li>Validation to check if the password is at least 6 characters long.</li>
+<li>Validation to check if the password is at least 6 characters long.</li>
 <li>Confirmation check to ensure the password and confirm password fields match.</li>
 </ul>
